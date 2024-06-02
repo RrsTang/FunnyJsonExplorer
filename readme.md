@@ -7,7 +7,7 @@
 在命令行中使用以下命令即可使用不同的风格与图标族打印json文件
 
 ```
-python fje.py < -f FILE> < -s STYLE> < -i ICON>
+python fje.py <-f FILE> <-s STYLE> <-i ICON>
 ```
 
 以下为参数说明
